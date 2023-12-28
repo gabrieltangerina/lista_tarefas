@@ -1,0 +1,34 @@
+.tarefas{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.tarefas li{
+  display: flex;
+  margin: 10px 0;
+  justify-content: space-between;
+  background-color: #035aa669;
+  padding: 10px;
+}
+
+.tarefas li span{
+  display: flex;
+  align-items: center;
+}
+
+.buttonEdit, .buttonDelete{
+  cursor: pointer;
+}
+
+.buttonEdit{
+  margin-right: 10px;
+}
+
+.buttonDelete{
+  color: rgba(207, 0, 0, 0.746);
+}
+
+.buttonDelete:hover{
+  color: rgba(207, 0, 0, 0.967);
+}

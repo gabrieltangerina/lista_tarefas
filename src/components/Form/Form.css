@@ -1,0 +1,30 @@
+.form{
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input[type="text"]{
+  height: 40px;
+  min-width: 80%;
+  padding: 0 10px;
+  font-size: 1.5rem;
+}
+
+.form button{
+  height: 40px;
+  min-width: 50px;
+  background-color: #2685BF;
+  border: 1px solid #ccc;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.form button:hover{
+  background-color: #0e74b3;
+}
