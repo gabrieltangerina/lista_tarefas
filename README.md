@@ -1,6 +1,6 @@
 # App Lista de Tarefas
 
-Este projeto foi feito para colocar em prática meus aprendizados com o framework React. 
+Este projeto foi feito para colocar em prática meus primeiros aprendizados com o framework React. 
 
 
 ## Funcionalidas
